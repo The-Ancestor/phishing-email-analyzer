@@ -41,3 +41,11 @@ The analyzer assigns risk points based on multiple indicators.
 
 ```bash
 python3 phish_analyzer.py
+$ python3 phish_analyzer.py
+Paste email text:
+> <paste example email>
+
+Language risk score: 12
+Link risk score: 40
+Overall risk score: 52
+⚠️ Medium Risk — Suspicious email
